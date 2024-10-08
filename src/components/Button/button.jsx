@@ -1,6 +1,8 @@
 
 import './Button.css'
 import Arrow from '../../assets/white-arrow.svg'
+
+
 function Button ({ arrow, buttonStyle, loading, children, ...props  }) {
     return (
         <button className={`button ${buttonStyle}`} {...props}>
