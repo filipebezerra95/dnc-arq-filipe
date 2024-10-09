@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 import './Hero.css'
 import Button from '../Button/button.jsx'
 // context
-import { AppContext } from '../../contexts/AppContext'
+import { AppContext } from '../../contexts/AppContext.jsx'
 function Hero() {
     const appContext = useContext(AppContext)
     return (

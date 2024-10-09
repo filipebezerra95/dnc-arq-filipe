@@ -1,8 +1,8 @@
 import { useContext } from 'react'
-import Header from "../components/Header/header"
-import Hero from "../components/Hero/hero"
-import Footer from '../components/Footer/Footer'
-import ProjectsList from '../components/ProjectsList/ProjectsList'
+import Header from "../components/Header/Header.jsx"
+import Hero from "../components/Hero/Hero.jsx"
+import Footer from '../components/Footer/Footer.jsx'
+import ProjectsList from '../components/ProjectsList/ProjectsList.jsx'
 
 // context
 import { AppContext } from '../contexts/AppContext'
