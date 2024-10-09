@@ -5,8 +5,8 @@ import { Link } from 'react-router-dom'
 import './Header.css'
 import Logo from '../../assets/dnc-logo.svg'
 
-//COMPONENTS
-import Button from '../Button/Button'
+// COMPONENTS
+import Button from '../../components/Button/Button'
 
 //CONTEXT
 import { AppContext } from '../../contexts/AppContext' 
