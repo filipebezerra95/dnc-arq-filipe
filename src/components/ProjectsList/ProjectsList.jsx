@@ -3,7 +3,7 @@ import './ProjectsList.css'
 
 //ASSETS
 import LikeFilled from '../../assets/like-filled.svg'
-import LikeOutline from '../../assets/like-Outline.svg'
+import LikeOutline from '../../assets/like-outline.svg'
 
 // COMPONENTS
 
