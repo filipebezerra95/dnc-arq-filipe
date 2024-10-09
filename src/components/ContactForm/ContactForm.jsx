@@ -2,7 +2,7 @@ import { useContext, useState, useEffect } from 'react'
 import './ContactForm.css'
 
 //components
-import Button from '../Button/button.jsx'
+import Button from '../Button/Button.jsx'
 
 // context
 import { AppContext } from '../../contexts/AppContext'
