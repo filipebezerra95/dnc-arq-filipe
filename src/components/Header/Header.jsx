@@ -6,7 +6,7 @@ import './Header.css'
 import Logo from '../../assets/dnc-logo.svg'
 
 // COMPONENTS
-import Button from '../Button/button.jsx'
+import Button from '../Button/Button'
 
 //CONTEXT
 import { AppContext } from '../../contexts/AppContext.jsx' 
