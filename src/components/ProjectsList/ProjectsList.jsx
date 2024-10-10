@@ -7,7 +7,7 @@ import LikeOutline from '../../assets/like-outline.svg'
 
 // COMPONENTS
 
-import Button from '../Button/Button'
+import Button from '../Button/button'
 
 //UTILS
 import { getApiData } from '../../services/apiServices'

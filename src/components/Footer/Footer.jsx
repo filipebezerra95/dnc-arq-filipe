@@ -12,7 +12,7 @@ import LinkedinIcon from '../../assets/linkedin-icon.svg'
 import TwitterIcon from '../../assets/twitter-icon.svg'
 
 //component
-import Button from '../Button/Button'
+import Button from '../Button/button'
 
 // context
 import { AppContext } from '../../contexts/AppContext'
