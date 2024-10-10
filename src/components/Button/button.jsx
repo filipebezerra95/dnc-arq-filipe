@@ -1,5 +1,5 @@
 
-import './Button.css'
+import './button.css'
 import Arrow from '../../assets/white-arrow.svg'
 import LoadingSpinner from '../../assets/loading-spinner.gif'
 
